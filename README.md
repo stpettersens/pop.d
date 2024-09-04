@@ -4,7 +4,7 @@
 This import source only library offers Python style popping off arrays for D.
 That is return a value from an array and remove it from the array in one function.
 
-As bonus, the library also implements push() we acts likes Python's append() or insert().
+As bonus, the library also implements push() which acts likes Python's append() or insert().
 
 Released to Public domain. Use as you wish.
 
