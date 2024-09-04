@@ -1,4 +1,4 @@
-/* Simple pop() and push()/append() functions for D (dlang) arrays.
+/* Simple pop() and push() functions for D (dlang) arrays.
    Written by Sam Saint-Pettersen, 2024.
 
    Released to Public domain. Use as you wish.
