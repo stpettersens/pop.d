@@ -40,7 +40,8 @@ void test() {
     xyz.append('w', 0); // Add 'w' at start.
     writeln(xyz);
 
-    // insert() [like Python] is an alias for push() but requires an explicit index first.
+    // insert() [like Python] is an alias for push()
+    // but requires an explicit index first.
     xyz.insert(0, 'v'); // Add 'v' at start.
     writeln(xyz);
     writeln();
