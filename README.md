@@ -10,7 +10,7 @@ Released to Public domain. Use as you wish.
 
 Usage:
 
-```
+```d
 import std.stdio;
 import pop : pop, push, append, insert;
 
